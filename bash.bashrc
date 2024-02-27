@@ -7,8 +7,8 @@ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;3
 clear
 echo -e "Created By \ThuRa <J3ker>"|lolcat
 echo "----------------------------" | lolcat
-echo -e "\e[1mFacebook :@ @thura2958"|lolcat
-echo -e "\e[We Are Myanmar/"|lolcat
+echo -e "\e[1mFacebook :Thu Ra"|lolcat
+echo -e "\e[Hi Sex Chat Ya Aung/"|lolcat
 echo -e "If You Good I Not Bad"|lolcat
 echo "----------------------------" | lolcat
 echo "
